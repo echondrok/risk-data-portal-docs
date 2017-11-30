@@ -117,6 +117,7 @@ htmlhelp_basename = 'ThessalonikiRiskDataPortaldoc'
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {
+    
     # The paper size ('letterpaper' or 'a4paper').
     #
     'papersize': 'letterpaper',
@@ -124,7 +125,8 @@ latex_elements = {
     # The font size ('10pt', '11pt' or '12pt').
     #
     'pointsize': '11pt',
-
+    'inputenc': '',
+    'utf8extra': '',
     # Additional stuff for the LaTeX preamble.
     #
     'preamble': r'''
