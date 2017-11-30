@@ -117,23 +117,17 @@ htmlhelp_basename = 'ThessalonikiRiskDataPortaldoc'
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {
-    
     # The paper size ('letterpaper' or 'a4paper').
     #
-    'papersize': 'letterpaper',
+    # 'papersize': 'letterpaper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-    'pointsize': '11pt',
-    'inputenc': '',
-    'utf8extra': '',
+    # 'pointsize': '11pt',
+
     # Additional stuff for the LaTeX preamble.
     #
-    'preamble': r'''
-        \usepackage{charter}
-        \usepackage[defaultsans]{lato}
-        \usepackage{inconsolata}
-    ''',
+    # 'preamble': r'',
 
     # Latex figure (float) alignment
     #
